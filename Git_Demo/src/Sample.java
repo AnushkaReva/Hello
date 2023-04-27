@@ -5,6 +5,8 @@ public class Sample {
 		
 		
 		System.out.println("Hello");
+		
+		System.out.println("New Line added....");
 	}
 
 }
